@@ -242,6 +242,17 @@ Email: joshuamitchell5678@gmail.com
 
 
 
+**KaBria Broadwater**
+
+Contact Information:
+
+Email: KaBria.Broadwater@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/kabriabroadwater/)
+
+
+
+
 ---
 
 ## License
