@@ -67,7 +67,7 @@ You can see in the visualizations that the Mind Trip ETF is increasing slightly 
 
 ## Presentation Link
 
-[Presentation](https://docs.google.com/presentation/d/1hUbEMa7-H6ocAlZyrIXMvV8RSfoBfhsU1VeNEUhjuNA/edit#slide=id.g1f87997393_0_782)
+[Presentation](https://docs.google.com/presentation/d/1206pJ9TbzqUk5hOLltEFpU24qsuN-s3a0OHR3iWc67o/edit#slide=id.g153fbb4e16e_0_119)
 
 ---
 
