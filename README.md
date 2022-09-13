@@ -2,7 +2,7 @@
 
 # Primary application file
 
-Develop NFTs to be sold and when you claim the NFT at a location you will receive complimentary canabis.  This is done to comply with District of Columbia's law that does not allow you to sell canabis out right but you can sell items and have complimentary canabis accompany the purchased item.  This will provide convenince to users that can purchase an NFT and then present it to the store for their complimentary canabis.  Convenience is provided to the customer by not having to wait in line at the location and to the store owner by not having to spend time with clients but can have complimentary canabis available when they arrive.
+Develop NFTs to be sold and when you claim the NFT at a location you will receive complimentary cannabis.  This is done to comply with District of Columbia's law that does not allow you to sell cannabis out right but you can sell items and have complimentary cannabis accompany the purchased item.  This will provide convenince to users that can purchase an NFT and then present it to the store for their complimentary canabis.  Convenience is provided to the customer by not having to wait in line at the location and to the store owner by not having to spend time with clients but can have complimentary cannabis available when they arrive.
 
 
 ---
