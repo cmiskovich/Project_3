@@ -1,8 +1,8 @@
 # Project_3
-# Project_2
+
 # Primary application file
 
-Produce a Google Colab file to compare four psychedelic stocks, a psychedelic ETF, and S&P 500 and predicting the closing price 90 days ahead.  The psychedelic stocks are Mind Medicine (MNMD), Cybin Inc (CYBN), ATAI Life Sciences (ATAI), and Compass Pathways PLC (CMPS).  The ETF is PSYK ETF (PSYK) and it has 59,592 shares in 26 different psychedelic stocks with holdings of $1,175,934 including $2,509 in cash as of 8/1/2022.  The Standard and Poor's 500, or simply the S&P 500 (SPY), is a stock market index tracking the stock performance of 500 large companies listed on exchanges in the United States. It is one of the most commonly followed equity indices.
+Develop NFTs to be sold and when you claim the NFT at a location you will receive complimentary canabis.  This is done to comply with District of Columbia's law that does not allow you to sell canabis out right but you can sell items and have complimentary canabis accompany the purchased item.  This will provide convenince to users that can purchase an NFT and then present it to the store for their complimentary canabis.  Convenience is provided to the customer by not having to wait in line at the location and to the store owner by not having to spend time with clients but can have complimentary canabis available when they arrive.
 
 
 ---
@@ -30,7 +30,9 @@ Visual Studio Code
     OS: Darwin x64 21.4.0
     
     
-Google.colab
+Remix Etherium IDE
+
+Solidity
     
 
 
