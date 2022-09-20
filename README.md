@@ -50,7 +50,7 @@ By using the ETH crypto currency as the medium of exchange in the transactions b
 
 Current law makes it that businesses can not take cash for cannabis products and they can not deposit cash into a recognized federal bank.
 
-Initiative 71.
+The legalization of recreational cannabis with gifting up to one ounce of cannabis as outlined in Initiative 71, has created a gifting economy in which stores and businesses exchange cannabis as a gift for t-shirts or other items such as stickers etc, which are actually being purchased by customers, thereby creating a commercial market linked to selling other objects. This has flourished as an essentially unregulated gray market.
 
 Include by accepting crypto curreny and they sell cryto currency for cash they can liquidate that for fiat currency and deposit those funds into federally recognized banks.
 
