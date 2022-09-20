@@ -2,7 +2,7 @@
 
 # Primary application file
 
-Develop NFTs to be sold and when you claim the NFT at a location you will receive complimentary cannabis.  This is done to comply with District of Columbia's law that does not allow you to sell cannabis out right but you can sell items and have complimentary cannabis accompany the purchased item.  This will provide convenience to users that can purchase an NFT and then present it to the store for their complimentary cannabis.  Convenience is provided to the customer by not having to wait in line at the location and to the store owner by not having to spend time with clients but can have complimentary cannabis available when they arrive.
+Develop NFTs to be sold using Metamask and when you receive the NFT in your Metamask wallet and present it at a location you will receive complimentary cannabis.  This is done to comply with District of Columbia's law that does not allow you to sell cannabis out right but you can sell items and have complimentary cannabis accompany the purchased item.  This will provide convenience to users that can purchase an NFT and then present it to the store for their complimentary cannabis.  Convenience is provided to the customer by not having to wait in line at the location and to the store owner by not having to spend time with clients but can have complimentary cannabis available when they arrive.  The use of crypto currency is safer for both parties becuase neither party has to carry cash it is safer for the customer and business owner.  Also, criminals target cannabis shops because they know they have a lot of cash on hand because they  can not deposit it into banks.  The origin of this project came from a desire to create a business solution for cannibis dispenseries that are operating in the DMV (District, Maryland, and Virginia) area the goal of this business solution was to create a piece of software which when used by thes despenseries they can give access to greater clientle beyond the borders of Washington DC.
 
 
 ---
@@ -40,28 +40,19 @@ Solidity
 
 ## General information about analysis.
 
-We pulled data for the past year for the our four stocks which we labeled mind_trip_etf (MNMD, CYBN, ATAI, and CMPS), along with the psychedelic ETF (PSYK) labeled psyk_psychedelics_eft, and also the S&P 500 (SPY) labeled sp500.  After that we created data frames for each of them with a datetime stamp and closing price and plotted closing prices for each segment.
+This application is a software that allows marajunia dispenseries to comply with local regulation regarding the procedure of distribution and the collection and depositing of funds.
 
-Mind Trip ETF:
-![Mind Trip ETF closing prices](/Mind_trip_ETF_closing_prices.png)
+This is accomplished through the sale of non fungable tokens on the etherium blockchain network.
 
+By selling non fungable tokens distributors like places in Washington DC are able to comply with the requirement that the cannabis procucts not be sold directly to consumers for cash.  
 
-PSYK ETF:
-![PSYK ETF](/PSYK_ETF_CLOSE.png)
+By using the ETH crypto currency as the medium of exchange in the transactions businesses are able to greater comply with legislation as well as increase the safety of their establishment.
 
-S&P 500:
-![SP500](/SP500_Close.png)
+Current law makes it that businesses can not take cash for cannabis products and they can not deposit cash into a recognized federal bank.
 
+Initiative 71.
 
-We then ran daily returns for the three segments and plotted them:
-
-![Daily Returns](/Daily_Returns.png)
-
-Finally we modeled, fit and predicted the next 90 days for each segment:
-![90 day forcasts](/90_DAY_FORCAST.png)
-
-You can see in the visualizations that the Mind Trip ETF is increasing slightly over the next 90 days, S&P 500 is forcasted to decrease over the next 90 days, meanwhile the PSYK ETF is forcasted to increase significantly over the next 90 days.
-
+Include by accepting crypto curreny and they sell cryto currency for cash they can liquidate that for fiat currency and deposit those funds into federally recognized banks.
 
 ---
 
