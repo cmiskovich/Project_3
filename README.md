@@ -59,21 +59,23 @@ Include by accepting crypto curreny and they sell cryto currency for cash they c
 
 DC Cannabis Law
 Subject
+
 DC cannabis market is like the wild wild west of Weed
-In 2015 Initiative 71 become law. This laws states that is legal for adults under the age 21 to
-Possess two ounces or less of marijuana
-Grow up to 6 plants in their personal residence of which three are mature
-Transfer one ounce or less of marijuana to another person as long as
-No money, goods, or services are exchanged
-The recipient is 21 years of age or older
-The marijuana must be consumed on private property.
-Despite the initiative being voted on and passed by the local DC government the federal government (Congress) does not recognize the law. Due to this lack of recognition the local DC government and its resident codified initiative 71 into law in 2020
-Codifying the law was meant to bring in recreational dispensaries, (Which has not happened)
+
+   In 2015 Initiative 71 become law. This laws states that is legal for adults under the age 21 to
+        Possess two ounces or less of marijuana
+        Grow up to 6 plants in their personal residence of which three are mature
+        Transfer one ounce or less of marijuana to another person as long as
+            No money, goods, or services are exchanged
+            The recipient is 21 years of age or older
+            The marijuana must be consumed on private property.
+    Despite the initiative being voted on and passed by the local DC government the federal government (Congress) does not recognize the law. Due to this lack of recognition the local DC government and its resident codified initiative 71 into law in 2020
+           Codifying the law was meant to bring in recreational dispensaries, (Which has not happened)
 New Developments
-There are two new very serious development in regarding cannabis in DC. One developments good for consumers and medicinal dispensaries and the other is bad for gifting businesses particularly brick and mortar
-New Development #1 - - > DC passed a law for self certification or a medal condition that allows D.C residents to bar eligible for medical cannabis cards as of August 5th 2022. The new certification process removes the need for a physician to be apart of the certification process. This laws give any over the age of 21 immediate access all seven medicinal dispensaries. The downside to this is that in DC the federal government prohibits anyone that gets approve a medicinal marijuana cards can no longer carry a firearm. This law does not apply to non dc residents.
-The point of this new legislation is to crackdown on gifting business. The law aims to dive marijuana track from unregulated gifting business to medicinal dispensaries. Also to get around congress blocking it’s local legislation.
-New Development #2 - - > The local DC government has created a joint cannabis task force to crack down on gifting business to verify compliance with the district of Columbia legal requirements. The task force consist of the DCRA , Dept of health, Dept of Tax and Revenue and DC fire and emergency medical services. The new law requires edibles and other food products to be approved by dc health and produced in compliance with DC food safety and hygiene laws.
+    There are two new very serious development in regarding cannabis in DC. One developments good for consumers and medicinal dispensaries and the other is bad for gifting businesses particularly brick and mortar
+    New Development #1 - - > DC passed a law for self certification or a medal condition that allows D.C residents to bar eligible for medical cannabis cards as of August 5th 2022. The new certification process removes the need for a physician to be apart of the certification process. This laws give any over the age of 21 immediate access all seven medicinal dispensaries. The downside to this is that in DC the federal government prohibits anyone that gets approve a medicinal marijuana cards can no longer carry a firearm. This law does not apply to non dc residents.
+    The point of this new legislation is to crackdown on gifting business. The law aims to dive marijuana track from unregulated gifting business to medicinal dispensaries. Also to get around congress blocking it’s local legislation.
+    New Development #2 - - > The local DC government has created a joint cannabis task force to crack down on gifting business to verify compliance with the district of Columbia legal requirements. The task force consist of the DCRA , Dept of health, Dept of Tax and Revenue and DC fire and emergency medical services. The new law requires edibles and other food products to be approved by dc health and produced in compliance with DC food safety and hygiene laws.
 
 ---
 
