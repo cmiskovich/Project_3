@@ -59,7 +59,7 @@ Include by accepting crypto curreny and they sell cryto currency for cash they c
 
 ### DC Cannabis Law:
 
-### DC cannabis market is like the wild wild west of Weed
+### DC cannabis market is like the wild wild west of Weed:
 
    In 2015 Initiative 71 become law. This laws states that is legal for adults under the age 21 to
    
@@ -68,7 +68,7 @@ Include by accepting crypto curreny and they sell cryto currency for cash they c
    Grow up to 6 plants in their personal residence of which three are mature
    
    
-### Transfer one ounce or less of marijuana to another person as long as
+### Transfer one ounce or less of marijuana to another person as long as:
    
    No money, goods, or services are exchanged
             
@@ -81,7 +81,7 @@ Include by accepting crypto curreny and they sell cryto currency for cash they c
    Codifying the law was meant to bring in recreational dispensaries, (Which has not happened)
     
     
-### New Developments
+### New Developments:
 
    There are two new very serious development in regarding cannabis in DC. One developments good for consumers and medicinal dispensaries and the other is bad for gifting businesses particularly brick and mortar
     
