@@ -57,8 +57,7 @@ Include by accepting crypto curreny and they sell cryto currency for cash they c
 ---
 ## New Developments:
 
-### DC Cannabis Law
-### Subject
+### DC Cannabis Law:
 
 ### DC cannabis market is like the wild wild west of Weed
 
