@@ -56,6 +56,9 @@ The legalization of recreational cannabis with gifting up to one ounce of cannab
 
 Include by accepting cryptocurrency and they sell cryptocurrency for cash they can liquidate that for fiat currency and deposit those funds into federally recognized banks.
 
+
+![Welcomepage](Welcomepage.png)
+
 ---
 ## New Developments:
 
