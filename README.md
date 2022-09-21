@@ -33,6 +33,8 @@ Visual Studio Code
 Remix Etherium IDE
 
 Solidity
+
+React
     
 
 
@@ -42,9 +44,9 @@ Solidity
 
 This application is a software that allows marajunia dispenseries to comply with local regulation regarding the procedure of distribution and the collection and depositing of funds.
 
-This is accomplished through the sale of non fungable tokens on the etherium blockchain network.
+This is accomplished through the sale of non fungible tokens on the ethereum blockchain network.
 
-By selling non fungable tokens distributors like places in Washington DC are able to comply with the requirement that the cannabis procucts not be sold directly to consumers for cash.  
+By selling non fungible tokens distributors like places in Washington DC are able to comply with the requirement that the cannabis products not be sold directly to consumers for cash.  
 
 By using the ETH crypto currency as the medium of exchange in the transactions businesses are able to greater comply with legislation as well as increase the safety of their establishment.
 
@@ -52,7 +54,7 @@ Current law makes it that businesses can not take cash for cannabis products and
 
 The legalization of recreational cannabis with gifting up to one ounce of cannabis as outlined in Initiative 71, has created a gifting economy in which stores and businesses exchange cannabis as a gift for t-shirts or other items such as stickers etc, which are actually being purchased by customers, thereby creating a commercial market linked to selling other objects. This has flourished as an essentially unregulated gray market.
 
-Include by accepting crypto curreny and they sell cryto currency for cash they can liquidate that for fiat currency and deposit those funds into federally recognized banks.
+Include by accepting cryptocurrency and they sell cryptocurrency for cash they can liquidate that for fiat currency and deposit those funds into federally recognized banks.
 
 ---
 ## New Developments:
@@ -83,7 +85,7 @@ Include by accepting crypto curreny and they sell cryto currency for cash they c
     
 ### New Developments:
 
-   There are two new very serious development in regarding cannabis in DC. One developments good for consumers and medicinal dispensaries and the other is bad for gifting businesses particularly brick and mortar
+   There are two new very serious development in regarding cannabis in DC. One developments good for consumers and medicinal dispensaries and the other is bad for gifting businesses particularly brick and mortar.
     
    New Development #1 - - > DC passed a law for self certification or a medal condition that allows D.C residents to bar eligible for medical cannabis cards as of August 5th 2022. The new certification process removes the need for a physician to be apart of the certification process. This laws give any over the age of 21 immediate access all seven medicinal dispensaries. The downside to this is that in DC the federal government prohibits anyone that gets approve a medicinal marijuana cards can no longer carry a firearm. This law does not apply to non dc residents.
     
